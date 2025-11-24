@@ -18,7 +18,7 @@ Computer Science student.
 - I 🩵 Tailwind.
 - Typescript is a must. 😉
 
-[![wakatime](https://wakatime.com/badge/user/6708e67d-2135-4c5f-b79a-19b97d45dbff.svg)](https://wakatime.com/@6708e67d-2135-4c5f-b79a-19b97d45dbff)
+[![wakatime](https://wakatime.com/badge/user/6708e67d-2135-4c5f-b79a-19b97d45dbff.svg?style=flat-square&color=cc0000&label_color=111111)](https://wakatime.com/@6708e67d-2135-4c5f-b79a-19b97d45dbff)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pole/e2a4caee-76f5-4669-a30a-615aa39ab2f8.png" /></a>
 
@@ -26,27 +26,5 @@ Computer Science student.
 <a title="LinkedIn" href="https://www.linkedin.com/in/pol-c-358bb3226/">
   <img src=https://skillicons.dev/icons?i=linkedin&theme=dark>
 </a>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-_I kind of wish I was living in the golden era of the internet._
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=poledev-gd&left_color=green&right_color=red) -->
